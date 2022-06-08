@@ -3,5 +3,6 @@
     <pages>
         <page name='Duplicate_No_InArrays'/>
         <page name='Missing_No_InArrays'/>
+        <page name='Largest_Smallest_No_InArray'/>
     </pages>
 </playground>
