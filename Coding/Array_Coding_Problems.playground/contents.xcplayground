@@ -6,5 +6,6 @@
         <page name='Largest_Smallest_No_InArray'/>
         <page name='Largest_ThreeElements_InArray'/>
         <page name='Reverse_Array_Element'/>
+        <page name='Cyclic_Rotate_Array'/>
     </pages>
 </playground>
